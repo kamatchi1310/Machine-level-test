@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+      margin-top: 20px;
+    float: left;
+        width: 33.33%;
+    padding: 10px;
+    display: table-cell;
+  }
+  
+  .row {
+    display: table;
+    width: 100%;
+  }
+
+  .column:hover{
+    transform: scale(1.05);
+  }
+  .cardlink{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+
+  }
+
+  /* .items{
+      background-color: white;
+      border-radius: 4px;
+  } */
+  .chips{
+  display: inline-block;
+  padding: 0 25px;
+  height: 25px;
+  font-size: 16px;
+  line-height: 25px;
+  border-radius: 5px;
+  background-color:white;
+  margin: 5px;
+  }
+
+  .card-title{
+      text-align: center;
+  }

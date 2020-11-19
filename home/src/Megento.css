@@ -1,0 +1,21 @@
+.btn-megento{
+    border-radius:20px ;
+    background-color:transparent;
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    color: white;
+}
+
+.megento{
+    background-color: orangered;
+    margin-left: 10px;
+    color: white;
+    padding: 0px 0px 25px 0px;
+}
+.megento p{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
